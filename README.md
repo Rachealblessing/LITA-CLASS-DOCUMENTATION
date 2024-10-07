@@ -6,3 +6,8 @@ Data analysis is the process of examining, cleaning, and interpreting data to ex
 
 ### data sources
 The primary source of data used is from Kaggle, which is a great platform that offers a wide variety of datasets across different domains. It’s a valuable resource for data analysis projects, providing access to real-world data and allowing me to explore various data science techniques.
+
+### tools used
+- microsoft excel for data cleaning,analysis and visualization
+- SQL-structured query language for querying of data
+- github for portfolio building
