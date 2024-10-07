@@ -2,6 +2,20 @@
 
 ### project title: Data analysis
 ---
+[project overview](#project-overview)
+
+[Data sources](#data-sources)
+
+[Tools used](#tools-used)
+
+[Data cleaning and preparations](#data-cleaning-and-preparations)
+
+[Exploratory data analysis](#exploratory-data-analysis)
+
+[Data analysis](#data-analysis)
+
+[Data visualization](#data-visualization)
+
 ### project overview
 Data analysis is the process of examining, cleaning, and interpreting data to extract useful insights and support decision-making. It involves collecting data from various sources, cleaning it to ensure accuracy, and then using techniques like exploratory data analysis (EDA) to identify patterns and trends. Advanced methods, such as statistical analysis and machine learning, can then be applied for deeper insights. Overall, data analysis is essential in various fields to help organizations make informed, data-driven decisions.
 
