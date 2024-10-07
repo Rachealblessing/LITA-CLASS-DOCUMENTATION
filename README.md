@@ -34,6 +34,8 @@ EDA is essential for gaining insights into the data before applying more complex
   ### Data analysis
   ---
   This is where we include some basic lines of code or queries or even some of the dax expression used during the analysis
+
+  ### Data visualization
   
   
 
