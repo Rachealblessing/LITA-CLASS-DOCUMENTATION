@@ -55,12 +55,12 @@ Microsoft Excel is a powerful spreadsheet application that is part of the micros
 
 ### Basic Excel functions 
 ---
-1. Sum:This function adds up a range of numbers. The syntax: =SUM(number1,number2....) or sum(range)
-2. Average:This function calculates the mean of a set of numbers. The syntax: =Average(number1,number2....) or Average(range)
-3. Min:This function returns the smallest number in a range. The syntax: =Min(number1,number2...) or Min(range)
-4. Max:This fuction returns the kargest number in a range. The syntax: =Max(number1,number2....)
-5. Concatenate:This function joins two or more strings together.The syntax: =Concatenate(number1,number2...)
-6. If function:This function checks a condition and returns one value if true and another if false.The syntax: =IF(logical_test,value_if_true,value_if_false)
+1. Sum: This function adds up a range of numbers. The syntax: =SUM(number1,number2....) or sum(range)
+2. Average: This function calculates the mean of a set of numbers. The syntax: =Average(number1,number2....) or Average(range)
+3. Min: This function returns the smallest number in a range. The syntax: =Min(number1,number2...) or Min(range)
+4. Max: This fuction returns the kargest number in a range. The syntax: =Max(number1,number2....)
+5. Concatenate: This function joins two or more strings together.The syntax: =Concatenate(number1,number2...)
+6. If function: This function checks a condition and returns one value if true and another if false.The syntax: =IF(logical_test,value_if_true,value_if_false)
 
 ### Data entry in excel
 ---
