@@ -66,11 +66,93 @@ Microsoft Excel is a powerful spreadsheet application that is part of the micros
 ---
 Data entry in excel is refer to a process of inputting, organizing and managing data within an excel spreadsheet 
 
-### Dataset Description 
+### Data description 
 ---
 The dataset provides information about the following 
 - sale transaction 
 - Enabling Analysis of sales performance across different regions,markets,stores,products and time periods
+
+### Data fields
+---
+1. Region
+2. Market 
+3. Store
+4. Trade date
+5. Model
+6. Day Category 
+7. Unit Sold
+8. Trade date
+
+### Data visualization 
+---
+Data visualization using pivot tables in excel is a powerful way to summarize and analyze large datasets. The steps in using to create a pivot table 
+
+step 1: Prepare your data
+step 2: create a pivot table
+- select your data
+- insert pivot table: Go to the insert tab in the excel ribbon, click on pivot table
+- choose the data then click ok
+
+
+### INTRODUCTION TO SWL
+-----
+SQL- Structured Query Language 
+It is a standardized programming language used for managing and manipulating relational databases. it allows user to perform various operations on data, including querying, updating, inserting and deleting records. SQL allows user to query the database in a number of ways, using English-like statements 
+
+### what are SQL?
+SQL follows the following rules:
+- structure query language is not case sensitive
+- statements of SQL are dependent on text lines. we can use single SQL statement on one or multiple text line.
+- SQL depends on tuple relational calculus and relational algebra 
+
+### what is databases
+---
+A database is an organized collection of data that is stored and managed in a structured way to allow for east access,retrieval and manipulation.
+
+### Advantage of Databases:
+1. Data integrity
+2. Security 
+3. Backup and Recovery 
+4. Concurrency
+5. Scalability 
+6. Efficient Data Management 
+
+### Why SQL
+---
+- SQL is easy to understand.
+- Traditional databases allow us to access data directly 
+- Traditional databases allow us to adult and replicate our data
+- SQL is a great tool for analyzing multiple tables at once
+- SQL allows you to analyze more complex questions than dashboard tools
+
+### SQL Commands
+---
+SQL commands are instructions. it is used to communicate with the database.it is also used to perform specific tasks,functions and queries of data
+SQL can perform various tasks like create a table, add data to tables, drop the table,modify the tablr, set permission for isers
+
+###Types of SQL Commands
+---
+There are five types of SQL commands
+1. DDL: Data Definition Language( create,alter,drop,truncate )
+2. DML: Data Manipulation Language (insert,update,delete)
+3. DCL: Data Control Language ( grant,revoke)
+4. TCL: Transaction Control Language(commit,delete,update)
+5. DQL: Data Query Language ( select)
+
+### Microsoft SQL server 
+---
+Microsoft SQL server is a relational database management system developed by Microsoft to store and retrieve data as requested by other software applications 
+
+### SQL Server Management Studio
+---
+This is a software application developed by Microsoft that is used for configuring, managing and administering SQL setver databases. it provides a graphical interface for interacting eith SQL server databases and performing various tasks such as:
+1. Database Development 
+2. Database Administration
+3. Querying Data
+4. Import and Export data
+
+
+
 
 
   
