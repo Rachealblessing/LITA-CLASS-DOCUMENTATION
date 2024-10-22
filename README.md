@@ -48,9 +48,30 @@ EDA is essential for gaining insights into the data before applying more complex
 - what product are the top sellers?
 - what are product on peak sales?
 
+
+### Introduction to Excel
+---
+Microsoft Excel is a powerful spreadsheet application that is part of the microsoft office suite. it is widely used for organizing,analyzing and visualizing data. Excel allows users to create spreadsheets that consist of rows and columns, making it easy to input and manage large amount of data
+
+### Basic Excel functions 
+---
+1. Sum:This function adds up a range of numbers. The syntax:=SUM(number1,number2....) or sum(range)
+2. Average:This function calculates the mean of a set of numbers. The syntax:=Average(number1,number2....) or Average(range)
+3. Min:This function returns the smallest number in a range. The syntax:=Min(number1,number2...) or Min(range)
+4. Max:This fuction returns the kargest number in a range. The syntax:=Max(number1,number2....)
+5. Concatenate:This function joins two or more strings together.The syntax:=Concatenate(number1,number2...)
+6. If function:This function checks a condition and returns one value if true and another if false.The syntax:=IF(logical_test,value_if_true,value_if_false)
+
 ### Data entry in excel
 ---
-Data entry is refer to a process of inputting, organizing and managing data within an excel spreedsheet
+Data entry in excel is refer to a process of inputting, organizing and managing data within an excel spreadsheet 
+
+### Dataset Description 
+---
+The dataset provides information about the following 
+- sale transaction 
+- Enabling Analysis of sales performance across different regions,markets,stores,products and time periods
+
 
   
   
