@@ -44,12 +44,14 @@ The primary source of data used is from Kaggle, which is a great platform that o
 EDA is essential for gaining insights into the data before applying more complex statistical methods or machine learning algorithms.
 - Exploratory Data Analysis summarize the main characteristics of a dataset through descriptive statistics.
 - It visualizes data patterns and relationships using various charts and graphs.
+- what are the overall sales trend?
+- what product are the top sellers?
+- what are product on peak sales?
 
-  ### Data analysis
-  ---
-  This is where we include some basic lines of code or queries or even some of the dax expression used during the analysis
+### Data entry in excel
+---
+Data entry is refer to a process of inputting, organizing and managing data within an excel spreedsheet
 
-  ### Data visualization
   
   
 
