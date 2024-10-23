@@ -64,7 +64,7 @@ Microsoft Excel is a powerful spreadsheet application that is part of the micros
 8. Counta: This function is used to count alphabets in excel. The syntax: "-=Counta(number1,number2.....)"
 9. Conditional functions in excel are powerful tools that allow you to perform calculations or return values based on specific confit. here are some of the most commonly used conditional functions:
 - IF function : =if(logical_test,value_if_true,value_of_false)
-- Sumif : =sumif(range,criteria,(sum_range)
+- Sumif : =sumif(range,criteria,{sum_range})
 - Averageif: =averageif(range,criteria,{average_range})
 - countif: =countif(range,criteria)
 
