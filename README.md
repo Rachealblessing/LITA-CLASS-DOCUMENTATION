@@ -61,6 +61,8 @@ Microsoft Excel is a powerful spreadsheet application that is part of the micros
 4. Max: This fuction returns the kargest number in a range. The syntax: "=Max(number1,number2....)"
 5. Concatenate: This function joins two or more strings together.The syntax: "=Concatenate(number1,number2...)"
 6. If function: This function checks a condition and returns one value if true and another if false.The syntax: "=IF(logical_test,value_if_true,value_if_false)"
+7. Count: This function is used to count figures in excel. The syntax: "=Count(number1,number2...)"
+8. Counta: This function is used to count alphabets in excel. The syntax: "-=Counta(number1,number2.....)"
 
 ### Data entry in excel
 ---
