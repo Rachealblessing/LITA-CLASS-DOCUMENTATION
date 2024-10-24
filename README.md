@@ -34,13 +34,15 @@
 
 [Advantage of databases](#advantage-of-databases)
 
+[Why SQL](#why-SQL)
+
 [SQL command](#SQL-command)
 
 [Types of SQL commands](#types-of-SQL-commands)
 
-[Why SQL](#why-SQL)
+[Microsoft SQL server](#microsfoft-SQL-server)
 
-
+[SQL server management studio](#SQL-server-management-studio)
 
 ### project overview
 Data analysis is the process of examining, cleaning, and interpreting data to extract useful insights and support decision-making. It involves collecting data from various sources, cleaning it to ensure accuracy, and then using techniques like exploratory data analysis (EDA) to identify patterns and trends. Advanced methods, such as statistical analysis and machine learning, can then be applied for deeper insights. Overall, data analysis is essential in various fields to help organizations make informed, data-driven decisions.
