@@ -12,9 +12,35 @@
 
 [Exploratory data analysis](#exploratory-data-analysis)
 
-[Data analysis](#data-analysis)
+[Introduction to excel] (#introduction-to-excel)
 
-[Data visualization](#data-visualization)
+[Basic functions in excel] (#basic functions in excel)
+
+[Data entry in excel] (#data-entry-in-excel)
+
+[Data analysis] (#data-analysis)
+
+[Data description] (#data description)
+
+[Data fields] (#data fields)
+
+[Data visualization] (#data-visualization)
+
+[Introduction to SQL] (#introduction to SQL)
+
+[What are SQL] (#what are SQL)
+
+[what is databases] (#what is databases)
+
+[Advantage of databases] (#advantage of databases)
+
+[SQL command] (#SQL command)
+
+[Types of SQL commands] (#types of SQL commands)
+
+[Why SQL] (#why SQL)
+
+
 
 ### project overview
 Data analysis is the process of examining, cleaning, and interpreting data to extract useful insights and support decision-making. It involves collecting data from various sources, cleaning it to ensure accuracy, and then using techniques like exploratory data analysis (EDA) to identify patterns and trends. Advanced methods, such as statistical analysis and machine learning, can then be applied for deeper insights. Overall, data analysis is essential in various fields to help organizations make informed, data-driven decisions.
