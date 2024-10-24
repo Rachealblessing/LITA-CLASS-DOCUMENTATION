@@ -14,31 +14,31 @@
 
 [Introduction to excel](#introduction-to-excel)
 
-[Basic functions in excel](#basic functions in excel)
+[Basic functions in excel](#basic-functions-in-excel)
 
 [Data entry in excel](#data-entry-in-excel)
 
 [Data analysis](#data-analysis)
 
-[Data description](#data description)
+[Data description](#data-description)
 
-[Data fields](#data fields)
+[Data fields](#data-fields)
 
 [Data visualization](#data-visualization)
 
-[Introduction to SQL](#introduction to SQL)
+[Introduction to SQL](#introduction-to-SQL)
 
-[What are SQL](#what are SQL)
+[What are SQL](#what-are-SQL)
 
-[what is databases](#what is databases)
+[what is databases](#what-is-databases)
 
-[Advantage of databases](#advantage of databases)
+[Advantage of databases](#advantage-of-databases)
 
-[SQL command](#SQL command)
+[SQL command](#SQL-command)
 
-[Types of SQL commands](#types of SQL commands)
+[Types of SQL commands](#types-of-SQL-commands)
 
-[Why SQL](#why SQL)
+[Why SQL](#why-SQL)
 
 
 
