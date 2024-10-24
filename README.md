@@ -90,7 +90,6 @@ Microsoft Excel is a powerful spreadsheet application that is part of the micros
 5. Concatenate: This function joins two or more strings together.The syntax: "=Concatenate(number1,number2...)"
 7. Count: This function is used to count figures in excel. The syntax: "=Count(number1,number2...)"
 8. Counta: This function is used to count alphabets in excel. The syntax: "-=Counta(number1,number2.....)"
-9. https://github.com/Rachealblessing/LITA-CLASS-DOCUMENTATION/blob/main/90BBBACF-CB3D-4671-BEB9-ACB0B184E709.jpeg
 10. Conditional functions in excel are powerful tools that allow you to perform calculations or return values based on specific confit. here are some of the most commonly used conditional functions:
 - IF function : =if(logical_test,value_if_true,value_of_false)
 - Sumif : =sumif(range,criteria,{sum_range})
