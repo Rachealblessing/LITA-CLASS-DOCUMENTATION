@@ -234,11 +234,14 @@ table_name ORDER BY column1 asc/desc
 
 1. create a table
 
-```create database LITA_DB```
+```sql
+create database LITA_DB
+```
 
 2. create Employee table
 
-```create table employee (
+```sql
+create table employee (
 staffid varchar (255) not null,
 firstname varchar (255) not null,
 secondname varchar (255),
@@ -251,11 +254,14 @@ primary key (staffid)
 
 3. Select: help to retrieve information 
 
-```select * from employee```
+```sql
+select * from employee
+```
 
 4. insert: to put in the database on the table
 
-```insert into employee 
+```sql
+insert into employee 
 (staffid,firstname,secondname,gender,date_of_birth,hiredate)
 ```
 
