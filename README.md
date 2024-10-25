@@ -196,7 +196,7 @@ writing queries in SQL is essential for managing and manipulating relational dat
 
 Select statement:This is used to retrieve data from one or more tables. 
 syntax: 
-sql
+```sql
 SELECT column1,column2 from
 table_name
 ```
