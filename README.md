@@ -1,3 +1,4 @@
+
 # LITA-training- program 
 
 ### project title: Data analysis
@@ -90,12 +91,15 @@ Microsoft Excel is a powerful spreadsheet application that is part of the micros
 5. Concatenate: This function joins two or more strings together.The syntax: ```=Concatenate(number1,number2...)```
 7. Count: This function is used to count figures in excel. The syntax: ```=Count(number1,number2...)```
 9. Counta: This function is used to count alphabets in excel. The syntax: ```=Counta(number1,number2.....)```
+10. ![ecelll real](https://github.com/user-attachments/assets/7a9f6b08-13ea-4ab8-a283-3310921b08a9)
+
   
 11. Conditional functions in excel are powerful tools that allow you to perform calculations or return values based on specific confit. here are some of the most commonly used conditional functions:
 - IF function : ```=if(logical_test,value_if_true,value_of_false)```
 - Sumif : ```=sumif(range,criteria,{sum_range})```
 - Averageif: ```=averageif(range,criteria,{average_range})```
 - countif:``` =countif(range,criteria)```
+![excel 22](https://github.com/user-attachments/assets/6aa033bb-1364-4d87-b252-d53be7f1be1d)
 
 ### Data entry in excel
 ---
