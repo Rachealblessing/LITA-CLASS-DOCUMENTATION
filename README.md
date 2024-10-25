@@ -194,7 +194,7 @@ This is a software application developed by Microsoft that is used for configuri
 ---
 writing queries in SQL is essential for managing and manipulating relational databases.SQL is a case-insensitive, but it is common practice to write keyboards in uppercase.
 
-```Select statement:This is used to retrieve data from one or more tables. 
+Select statement:This is used to retrieve data from one or more tables. 
 syntax: 
 sql
 SELECT column1,column2 from
@@ -218,7 +218,7 @@ where condition
 Insert into statement: This adds new records to a table.
 syntax:
 ```sql
-INSERT INTO table_name(column1.column2)
+INSERT INTO table_name(column1,column2)
 VALUES(value1,value2)
 ```
 
@@ -228,7 +228,8 @@ syntax
 SELECT column1,column2 from
 table_name ORDER BY column1 asc/desc
 ```
-
+### To create a table on SQL
+---
 ![sql proof](https://github.com/user-attachments/assets/3a2f7969-8619-43af-a527-1af9e28c066c)
 
 
