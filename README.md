@@ -83,19 +83,19 @@ Microsoft Excel is a powerful spreadsheet application that is part of the micros
 
 ### Basic Excel functions 
 ---
-1. Sum: This function adds up a range of numbers. The syntax: '''=SUM(number1,number2....) or sum(range)'''
-2. Average: This function calculates the mean of a set of numbers. The syntax: "=Average(number1,number2....) or Average(range)"
-3. Min: This function returns the smallest number in a range. The syntax: "=Min(number1,number2...) or Min(range)"
-4. Max: This fuction returns the kargest number in a range. The syntax: "=Max(number1,number2....)"
-5. Concatenate: This function joins two or more strings together.The syntax: "=Concatenate(number1,number2...)"
+1. Sum: This function adds up a range of numbers. The syntax: ```=SUM(number1,number2....) or sum(range)```
+2. Average: This function calculates the mean of a set of numbers. The syntax: ```=Average(number1,number2....) or Average(range)```
+3. Min: This function returns the smallest number in a range. The syntax: ```=Min(number1,number2...) or Min(range)```
+4. Max: This fuction returns the kargest number in a range. The syntax: ```=Max(number1,number2....)```
+5. Concatenate: This function joins two or more strings together.The syntax: ```=Concatenate(number1,number2...)```
 7. Count: This function is used to count figures in excel. The syntax: ```=Count(number1,number2...)```
-9. Counta: This function is used to count alphabets in excel. The syntax: "-=Counta(number1,number2.....)"
+9. Counta: This function is used to count alphabets in excel. The syntax: ```=Counta(number1,number2.....)```
   
 11. Conditional functions in excel are powerful tools that allow you to perform calculations or return values based on specific confit. here are some of the most commonly used conditional functions:
-- IF function : =if(logical_test,value_if_true,value_of_false)
-- Sumif : =sumif(range,criteria,{sum_range})
-- Averageif: =averageif(range,criteria,{average_range})
-- countif: =countif(range,criteria)
+- IF function : ```=if(logical_test,value_if_true,value_of_false)```
+- Sumif : ```=sumif(range,criteria,{sum_range})```
+- Averageif: ```=averageif(range,criteria,{average_range})```
+- countif:``` =countif(range,criteria)```
 
 ### Data entry in excel
 ---
