@@ -193,6 +193,7 @@ This is a software application developed by Microsoft that is used for configuri
 ### writing queries in SQL
 ---
 writing queries in SQL is essential for managing and manipulating relational databases.SQL is a case-insensitive, but it is common practice to write keyboards in uppercase.
+
 select statement:This is used to retrieve data from one or more tables. 
 syntax: 
 sql
