@@ -232,7 +232,30 @@ table_name ORDER BY column1 asc/desc
 ---
 ![sql proof](https://github.com/user-attachments/assets/3a2f7969-8619-43af-a527-1af9e28c066c)
 
+1. create a table
 
+create database LITA_DB
+
+2. create Employee table
+
+create table employee (
+staffid varchar (255) not null,
+firstname varchar (255) not null,
+secondname varchar (255),
+gender varchar (10),
+date_of_birth date,
+hiredate datatime
+primary key (staffid)
+)
+
+3. Select: help to retrieve information 
+
+select * from employee
+
+4. insert: to put in the database on the table
+
+insert into employee 
+(staffid,firstname,secondname,gender,date_of_birth,hiredate)
 
 
 
