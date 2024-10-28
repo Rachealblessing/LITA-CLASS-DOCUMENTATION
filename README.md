@@ -131,6 +131,7 @@ step 2: create a pivot table
 - select your data
 - insert pivot table: Go to the insert tab in the excel ribbon, click on pivot table
 - choose the data then click ok
+![PIVOT PROOF](https://github.com/user-attachments/assets/03f09a8f-3907-4263-9316-0bc62f9a1007)
 
 
 ### INTRODUCTION TO SQL
