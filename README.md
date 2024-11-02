@@ -309,12 +309,12 @@ This provide a comprehensive overview of a column characteristics,including stat
 ### Data Visualization 
 ---
 Data visualization is the process of representing data graphically to make insight mire understandable. power BI offers various visualization options, including charts,tables,maps,matrices and cards. These visualizations help users analyse data trends,comparisons and geographical information.
-###table
+### table
 ![table powerbi](https://github.com/user-attachments/assets/807bb778-b42c-4044-9a38-c99118fc5231)
 
-###map
+### map
 ![POWER PROOF](https://github.com/user-attachments/assets/e8e93cea-34c8-4a81-9b40-2170fe4f47ec)
-###charts
+### charts
 ![PB PROOF TRUE](https://github.com/user-attachments/assets/b70a0fda-46d5-4d28-aec3-31e8ac45a544)
 
 ### Slicer
