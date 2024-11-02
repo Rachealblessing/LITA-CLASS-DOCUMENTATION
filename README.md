@@ -269,6 +269,13 @@ insert into employee
 ### Power BI
 Power BI is a Business analytics tools developed by Microsoft that ensbles users to visualize data and share insight across their organization or embed in an app or website, it allows users to connect to various data sources, transform raw data into interactive dashboards and reports, perform data Analysis with ease
 
+### Data sources for Power BI
+Power BI support wide variety of data sources that can connect to for reports and dash boards
+1. Excel
+2. SQL server
+3. Cloud services
+4. Web data
+5. Csv files
 
 
 
