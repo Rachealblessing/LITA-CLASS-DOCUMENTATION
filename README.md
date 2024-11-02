@@ -266,6 +266,9 @@ insert into employee
 (staffid,firstname,secondname,gender,date_of_birth,hiredate)
 ```
 
+### Power BI
+Power BI is a Business analytics tools developed by Microsoft that ensbles users to visualize data and share insight across their organization or embed in an app or website, it allows users to connect to various data sources, transform raw data into interactive dashboards and reports, perform data Analysis with ease
+
 
 
 
