@@ -61,7 +61,7 @@
 
 [Column profile](#Column-profile)
 
-[Data visualization](#Data-visualization)
+[Data visualization 2](#Data-visualization-2)
 
 [Slicer](#slicer)
 ### project overview
@@ -325,7 +325,7 @@ This features shows how the values in a column are distributed. it presents a vi
 ---
 This provide a comprehensive overview of a column characteristics,including statistics like distinct count of values
 
-### Data Visualization 
+### Data Visualization 2
 ---
 Data visualization is the process of representing data graphically to make insight mire understandable. power BI offers various visualization options, including charts,tables,maps,matrices and cards. These visualizations help users analyse data trends,comparisons and geographical information.
 ### table
