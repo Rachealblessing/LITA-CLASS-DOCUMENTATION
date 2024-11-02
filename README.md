@@ -293,6 +293,7 @@ Get Data in powerBI is the features that lets you connect to different data sour
 ### Transform Data
 ---
 Transforming of data involves changing the structure or format of your data to make it more useful. This can include actions like filtering rows,changing data tupes,merging tables or pivoting and unpivoting data
+![tranform data](https://github.com/user-attachments/assets/ed382481-92fa-4ca9-aefe-77f2c1f3595c)
 
 
 ### Column Quality 
