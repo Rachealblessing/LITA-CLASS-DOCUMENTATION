@@ -319,7 +319,7 @@ Data visualization is the process of representing data graphically to make insig
 
 ### Slicer
 ---
-A slicer in power BI is a visual filter that allows user to segment and filter data in report easily.it provides a user-friendly way to control what dara is displayed by selecting specific values from a list
+A slicer in power BI is a visual filter that allows user to segment and filter data in report easily.it provides a user-friendly way to control what data is displayed by selecting specific values from a list
 ![slicer](https://github.com/user-attachments/assets/f2e637c9-7196-4340-b529-15242b453cd2)
 
 
