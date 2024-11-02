@@ -45,6 +45,25 @@
 
 [SQL server management studio](#SQL-server-management-studio)
 
+[powerBI](#powerBI)
+
+[Data sources for powerBI](#Data-sources-for-powerBI)
+
+[Component of powerBI](#Component-of-powerBI)
+
+[Get data](#Get-data)
+
+[Transform data](#Transform-data)
+
+[Column quality](#Column-quality)
+
+[Column distribution](#Column-distribution)
+
+[Column profile](#Column-profile)
+
+[Data visualization](#Data-visualization)
+
+[Slicer](#slicer)
 ### project overview
 Data analysis is the process of examining, cleaning, and interpreting data to extract useful insights and support decision-making. It involves collecting data from various sources, cleaning it to ensure accuracy, and then using techniques like exploratory data analysis (EDA) to identify patterns and trends. Advanced methods, such as statistical analysis and machine learning, can then be applied for deeper insights. Overall, data analysis is essential in various fields to help organizations make informed, data-driven decisions.
 
