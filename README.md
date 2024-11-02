@@ -294,6 +294,7 @@ Get Data in powerBI is the features that lets you connect to different data sour
 ---
 Transforming of data involves changing the structure or format of your data to make it more useful. This can include actions like filtering rows,changing data tupes,merging tables or pivoting and unpivoting data
 
+
 ### Column Quality 
 ---
 This features evaluates the overall quality of the data in a specific column.it provides insight into the percentage of valid,error and empty values
@@ -307,10 +308,19 @@ This provide a comprehensive overview of a column characteristics,including stat
 ### Data Visualization 
 ---
 Data visualization is the process of representing data graphically to make insight mire understandable. power BI offers various visualization options, including charts,tables,maps,matrices and cards. These visualizations help users analyse data trends,comparisons and geographical information.
+table
+![table powerbi](https://github.com/user-attachments/assets/807bb778-b42c-4044-9a38-c99118fc5231)
+
+map
+![POWER PROOF](https://github.com/user-attachments/assets/e8e93cea-34c8-4a81-9b40-2170fe4f47ec)
+charts
+![PB PROOF TRUE](https://github.com/user-attachments/assets/b70a0fda-46d5-4d28-aec3-31e8ac45a544)
 
 ### Slicer
 ---
 A slicer in power BI is a visual filter that allows user to segment and filter data in report easily.it provides a user-friendly way to control what dara is displayed by selecting specific values from a list
+![slicer](https://github.com/user-attachments/assets/f2e637c9-7196-4340-b529-15242b453cd2)
+
 
 
 
