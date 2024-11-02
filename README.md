@@ -267,15 +267,51 @@ insert into employee
 ```
 
 ### Power BI
+---
 Power BI is a Business analytics tools developed by Microsoft that ensbles users to visualize data and share insight across their organization or embed in an app or website, it allows users to connect to various data sources, transform raw data into interactive dashboards and reports, perform data Analysis with ease
 
 ### Data sources for Power BI
+---
 Power BI support wide variety of data sources that can connect to for reports and dash boards
 1. Excel
 2. SQL server
 3. Cloud services
 4. Web data
 5. Csv files
+
+### Component of PowerBI
+---
+1. Power BI Desktop 
+2. Power BI services
+3. Power BI Mobile app
+4. Power BI Gateway 
+
+### Get Data
+---
+Get Data in powerBI is the features that lets you connect to different data sources and import data for analysis. you can choisevfrom various sources like excel,CSV,SQL server
+
+### Transform Data
+---
+Transforming of data involves changing the structure or format of your data to make it more useful. This can include actions like filtering rows,changing data tupes,merging tables or pivoting and unpivoting data
+
+### Column Quality 
+---
+This features evaluates the overall quality of the data in a specific column.it provides insight into the percentage of valid,error and empty values
+### Column Distribution 
+---
+This features shows how the values in a column are distributed. it presents a visual representation of the frequency of different values,allowing users to see patterns and overall spread of data
+### Column profile
+---
+This provide a comprehensive overview of a column characteristics,including statistics like distinct count of values
+
+### Data Visualization 
+---
+Data visualization is the process of representing data graphically to make insight mire understandable. power BI offers various visualization options, including charts,tables,maps,matrices and cards. These visualizations help users analyse data trends,comparisons and geographical information.
+
+### Slicer
+---
+A slicer in power BI is a visual filter that allows user to segment and filter data in report easily.it provides a user-friendly way to control what dara is displayed by selecting specific values from a list
+
 
 
 
