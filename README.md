@@ -151,6 +151,8 @@ step 2: create a pivot table
 - insert pivot table: Go to the insert tab in the excel ribbon, click on pivot table
 - choose the data then click ok
 ![PIVOT PROOF](https://github.com/user-attachments/assets/03f09a8f-3907-4263-9316-0bc62f9a1007)
+![lita document dashboard](https://github.com/user-attachments/assets/51fc8cd8-b4df-468a-99e7-2c50a3a9f3ed)
+
 
 
 ### INTRODUCTION TO SQL
